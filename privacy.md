@@ -55,4 +55,4 @@ The app is not intended for children under 13.
 
 If you have questions about this privacy policy or data handling, contact:
 
-YOUR_CONTACT_EMAIL_HERE
+androidap@coolajz.cz
