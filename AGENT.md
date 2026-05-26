@@ -1,0 +1,1 @@
+Cestak aplikaci, podle které vytváříme dokumentaci je v /Users/coolajz/Documents/GitHub/zivyobraz-android-aplikace
