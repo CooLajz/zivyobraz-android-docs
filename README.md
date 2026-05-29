@@ -1,6 +1,6 @@
 # Živý Obraz pro Android
 
-## Uzavřené BETA testování
+## Otevřené BETA testování
 
 Uživatelé se mohou připojit do uzavřeného BETA testování aplikace přes Google Play Store pomocí odkazu otevřeného přímo v zařízení:
 
