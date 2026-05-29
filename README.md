@@ -2,7 +2,7 @@
 
 ## Otevřené BETA testování
 
-Uživatelé se mohou připojit do uzavřeného BETA testování aplikace přes Google Play Store pomocí odkazu otevřeného přímo v zařízení:
+Uživatelé se mohou připojit do BETA testování aplikace přes Google Play Store pomocí odkazu otevřeného přímo v zařízení:
 
 https://play.google.com/store/apps/details?id=eu.coolajz.zivyobraz
 
