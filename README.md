@@ -1,5 +1,15 @@
 # Živý Obraz pro Android
 
+## Uzavřené BETA testování
+
+Uživatelé se mohou připojit do uzavřeného BETA testování aplikace přes Google Play Store pomocí odkazu otevřeného přímo v zařízení:
+
+https://play.google.com/store/apps/details?id=eu.coolajz.zivyobraz
+
+Připojení je možné také přes web:
+
+https://play.google.com/apps/testing/eu.coolajz.zivyobraz
+
 Živý Obraz pro Android je doprovodná aplikace ke službě Živý Obraz. Slouží pro rychlý přehled e-paper zařízení, jejich aktuálního stavu, senzorových hodnot a základní diagnostiky přímo v telefonu.
 
 Aplikace se připojuje pomocí exportního klíče Živého Obrazu. Lze přidat jeden nebo více účtů, případně u každého účtu použít také ID skupiny pro omezení zobrazených zařízení.
