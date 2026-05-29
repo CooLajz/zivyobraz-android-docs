@@ -16,6 +16,8 @@ Soubor `zivyobraz-android-latest.apk` v tomto repozitáři obsahuje night build 
 
 Před instalací aplikace z Google Play Store je potřeba ručně nainstalovanou APK verzi nejdříve odinstalovat. Platí to i obráceně: před ruční instalací APK je potřeba odinstalovat verzi nainstalovanou z Google Play Store.
 
+---
+
 Živý Obraz pro Android je doprovodná aplikace ke službě Živý Obraz. Slouží pro rychlý přehled e-paper zařízení, jejich aktuálního stavu, senzorových hodnot a základní diagnostiky přímo v telefonu.
 
 Aplikace se připojuje pomocí exportního klíče Živého Obrazu. Lze přidat jeden nebo více účtů, případně u každého účtu použít také ID skupiny pro omezení zobrazených zařízení.
