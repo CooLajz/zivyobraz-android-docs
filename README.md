@@ -2,7 +2,7 @@
 
 ## Uzavřené BETA testování
 
-Pokud se chcete připojit do uzavřeného BETA testování, pošlete mi prosím na coolajz@coolajz.cz Váš email který máte registrovaný v Google Play a přidám Vás k testování.
+Máte-li zájem zapojit se do uzavřeného beta testování, zašlete mi prosím na adresu [coolajz@coolajz.cz](mailto:coolajz@coolajz.cz) e-mail, který používáte pro svůj účet v Google Play. Následně Vás přidám mezi testery.
 
 ## Night build APK
 
