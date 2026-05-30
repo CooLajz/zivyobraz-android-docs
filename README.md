@@ -1,14 +1,8 @@
 # Živý Obraz pro Android
 
-## Otevřené BETA testování
+## Uzavřené BETA testování
 
-Uživatelé se mohou připojit do BETA testování aplikace přes Google Play Store pomocí odkazu otevřeného přímo v zařízení:
-
-https://play.google.com/store/apps/details?id=eu.coolajz.zivyobraz
-
-Připojení je možné také přes web:
-
-https://play.google.com/apps/testing/eu.coolajz.zivyobraz
+Pokud se chcete připojit do uzavřeného BETA testování, pošlete mi prosím na na coolajz@coolajz.cz Váš email který máte registrovaný v Google Play a přidám Vás k testování.
 
 ## Night build APK
 
