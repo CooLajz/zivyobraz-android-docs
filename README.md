@@ -4,6 +4,10 @@
 
 Máte-li zájem zapojit se do uzavřeného beta testování, zašlete mi prosím na adresu [coolajz@coolajz.cz](mailto:coolajz@coolajz.cz) e-mail, který používáte pro svůj účet v Google Play. Následně Vás přidám mezi testery.
 
+Poté se můžete zapojit do testování přes Google Play Store pomocí odkazu otevřeného přímo v zařízení: https://play.google.com/store/apps/details?id=eu.coolajz.zivyobraz
+
+nebo přes přes web: https://play.google.com/apps/testing/eu.coolajz.zivyobraz
+
 ## Night build APK
 
 Soubor `zivyobraz-android-latest.apk` v tomto repozitáři obsahuje night build aplikace. Tento build se instaluje ručně mimo Google Play Store.
