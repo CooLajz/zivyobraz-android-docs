@@ -2,7 +2,7 @@
 
 ## Uzavřené BETA testování
 
-Máte-li zájem zapojit se do uzavřeného beta testování, zašlete mi prosím na adresu [coolajz@coolajz.cz](mailto:coolajz@coolajz.cz) e-mail, který používáte pro svůj účet v Google Play. Následně Vás přidám mezi testery.
+Máte-li zájem zapojit se do uzavřeného beta testování, zašlete mi prosím na adresu [coolajz@coolajz.cz](mailto:coolajz@coolajz.cz) e-mail, který používáte pro svůj účet v Google Play. Následně Vás přidám mezi testery. Bohužel potřebujeme minimálně 16 testerů co budou aplikaci testovat, než půjde aktivovat Open Beta test bez nutnosti posílat email pro registraci v beta programu.
 
 Poté se můžete zapojit do testování přes Google Play Store pomocí odkazu otevřeného přímo v zařízení: https://play.google.com/store/apps/details?id=eu.coolajz.zivyobraz
 
