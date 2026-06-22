@@ -14,14 +14,6 @@ You can also join through the web:
 
 https://play.google.com/apps/testing/eu.coolajz.zivyobraz
 
-## Night Build APK
-
-The `zivyobraz-android-latest.apk` file in this repository contains nightly builds of the app. This build must be installed manually outside Google Play Store.
-
-Before installing the Google Play Store version, uninstall the manually installed APK version first. The same applies the other way around: before manually installing the APK, uninstall the version installed from Google Play Store.
-
----
-
 ## Main Features
 
 - **Overview of all devices** - temperature, humidity, pressure or CO2, battery, online status, dashboard summary, and quick issue filtering.

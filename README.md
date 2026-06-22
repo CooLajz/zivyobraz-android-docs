@@ -14,14 +14,6 @@ Připojení je možné také přes web:
 
 https://play.google.com/apps/testing/eu.coolajz.zivyobraz
 
-## Night build APK
-
-Soubor `zivyobraz-android-latest.apk` v tomto repozitáři obsahuje night build aplikace. Tento build se instaluje ručně mimo Google Play Store.
-
-Před instalací aplikace z Google Play Store je potřeba ručně nainstalovanou APK verzi nejdříve odinstalovat. Platí to i obráceně: před ruční instalací APK je potřeba odinstalovat verzi nainstalovanou z Google Play Store.
-
----
-
 ## Hlavní funkce
 
 - **Přehled všech zařízení** - teplota, vlhkost, tlak nebo CO2, baterie, online stav, souhrn dashboardu a rychlé filtrování problémů.
