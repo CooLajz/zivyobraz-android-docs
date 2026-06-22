@@ -37,6 +37,56 @@ Before installing the Google Play Store version, uninstall the manually installe
 - **Encrypted backups** - manual and optional automatic backups of settings, saved keys, and optionally measurement history.
 - **Diagnostics tools** - debug log, last background refresh status, phone battery push diagnostics, build information, and local chart database overview.
 
+## App Screenshots
+
+### Device Overview
+
+The dashboard shows e-papers in cards, a summary for devices, custom cards, issues, and batteries. Tapping the summary items quickly filters the view.
+
+<p>
+  <img src="pics/hlavni_obrazovka_zarizeni.png" alt="Main screen with device list" width="280">
+  <img src="pics/hlavni_obrazovka_vlastni_karty.png" alt="Main screen with custom cards" width="280">
+</p>
+
+### Device Detail and History
+
+Device detail shows current values, contact status, battery, history charts, and technical diagnostics for the e-paper.
+
+<p>
+  <img src="pics/detail_zarizeni_historie.png" alt="Device detail with measurement history" width="280">
+  <img src="pics/detail_zarizeni_diagnostika.png" alt="Device detail with technical diagnostics" width="280">
+</p>
+
+### Battery Overview
+
+The separate battery overview helps you quickly find e-papers with the lowest battery and also shows battery voltage.
+
+<p>
+  <img src="pics/prehled_baterii.png" alt="E-paper battery overview" width="280">
+</p>
+
+### Custom Cards and Widgets
+
+Custom cards can combine values from the `my_values` export and use custom icons, colors, layouts, and conditional colors. The same cards can also be added as Android Home Screen widgets.
+
+<p>
+  <img src="pics/detail_vlastni_karty_historie.png" alt="Custom card detail with charts" width="280">
+  <img src="pics/editor_vlastni_karty.png" alt="Custom card editor" width="280">
+</p>
+
+<p>
+  <img src="pics/widgety_na_plose.png" alt="Živý Obraz widgets on the Android Home Screen" width="560">
+</p>
+
+### Settings, Backups, and Chart Database
+
+Settings include account management, e-paper alerts, encrypted backups, and an overview of the local chart database.
+
+<p>
+  <img src="pics/nastaveni_zalohy.png" alt="Account, alert, and backup settings" width="280">
+  <img src="pics/databaze_grafu.png" alt="Chart database overview" width="420">
+</p>
+
 ## How to Set Up the App
 
 ### 1. Prepare an Export Key

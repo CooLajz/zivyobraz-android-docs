@@ -37,6 +37,56 @@ Před instalací aplikace z Google Play Store je potřeba ručně nainstalovanou
 - **Šifrované zálohy** - ruční a volitelné automatické zálohy nastavení, uložených klíčů a volitelně také historie měření.
 - **Diagnostika provozu** - ladicí log, stav posledního background refresh běhu, diagnostika odesílání baterie telefonu, informace o buildu a přehled lokální databáze grafů.
 
+## Ukázky aplikace
+
+### Přehled zařízení
+
+Dashboard ukazuje e-papery v kartách, souhrn zařízení, vlastních karet, problémů a baterií. Klepnutím na souhrn lze rychle filtrovat zobrazení.
+
+<p>
+  <img src="pics/hlavni_obrazovka_zarizeni.png" alt="Hlavní obrazovka se seznamem zařízení" width="280">
+  <img src="pics/hlavni_obrazovka_vlastni_karty.png" alt="Hlavní obrazovka s vlastními kartami" width="280">
+</p>
+
+### Detail zařízení a historie
+
+Detail e-paperu zobrazuje aktuální hodnoty, stav kontaktu, baterii, grafy historie a technické diagnostické informace zařízení.
+
+<p>
+  <img src="pics/detail_zarizeni_historie.png" alt="Detail zařízení s historií měření" width="280">
+  <img src="pics/detail_zarizeni_diagnostika.png" alt="Detail zařízení s technickou diagnostikou" width="280">
+</p>
+
+### Přehled baterií
+
+Samostatný přehled baterií pomáhá rychle najít e-papery s nejnižší baterií a zobrazit také napětí baterie.
+
+<p>
+  <img src="pics/prehled_baterii.png" alt="Přehled baterií e-paperů" width="280">
+</p>
+
+### Vlastní karty a widgety
+
+Vlastní karty mohou kombinovat hodnoty z exportu `my_values`, používat vlastní ikony, barvy, rozložení a podmíněné barvy. Stejné karty lze přidat také jako widgety na domovskou obrazovku Androidu.
+
+<p>
+  <img src="pics/detail_vlastni_karty_historie.png" alt="Detail vlastní karty s grafy" width="280">
+  <img src="pics/editor_vlastni_karty.png" alt="Editor vlastní karty" width="280">
+</p>
+
+<p>
+  <img src="pics/widgety_na_plose.png" alt="Widgety Živý Obraz na domovské obrazovce Androidu" width="560">
+</p>
+
+### Nastavení, zálohy a databáze grafů
+
+Nastavení obsahuje správu účtů, upozornění na e-papery, šifrované zálohy a přehled lokální databáze grafů.
+
+<p>
+  <img src="pics/nastaveni_zalohy.png" alt="Nastavení účtů, upozornění a záloh" width="280">
+  <img src="pics/databaze_grafu.png" alt="Přehled databáze grafů" width="420">
+</p>
+
 ## Jak aplikaci nastavit
 
 ### 1. Připravte exportní klíč
