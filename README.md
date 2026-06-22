@@ -6,11 +6,17 @@ Android aplikace pro rychlý přehled zařízení ze služby [**Živý Obraz**](
 
 ## Uzavřené BETA testování
 
-Uživatelé se mohou připojit do uzavřeného BETA testování aplikace přes Google Play Store pomocí odkazu otevřeného přímo v zařízení:
+Pro přístup do uzavřeného BETA testování mi nejdříve pošlete e-mail na:
+
+coolajz@coolajz.cz
+
+Do zprávy uveďte e-mailovou adresu, kterou používáte v Google Play. Tuto adresu přidám do skupiny uzavřeného testování.
+
+Po přidání do testovací skupiny lze aplikaci nainstalovat přes Google Play Store pomocí odkazu otevřeného přímo v zařízení:
 
 https://play.google.com/store/apps/details?id=eu.coolajz.zivyobraz
 
-Připojení je možné také přes web:
+Případně lze použít webový odkaz:
 
 https://play.google.com/apps/testing/eu.coolajz.zivyobraz
 

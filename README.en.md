@@ -6,11 +6,17 @@ An Android app for a quick overview of devices from the [**Živý Obraz**](https
 
 ## Closed BETA Testing
 
-Users can join the closed BETA test through Google Play Store by opening this link directly on the Android device:
+To access the closed BETA test, first send me an email at:
+
+coolajz@coolajz.cz
+
+In the message, include the email address you use in Google Play. I will add this address to the closed testing group.
+
+After you have been added to the testing group, you can install the app through Google Play Store by opening this link directly on the Android device:
 
 https://play.google.com/store/apps/details?id=eu.coolajz.zivyobraz
 
-You can also join through the web:
+You can also use the web link:
 
 https://play.google.com/apps/testing/eu.coolajz.zivyobraz
 
