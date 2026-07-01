@@ -4,19 +4,15 @@
 
 An Android app for a quick overview of devices from the [**Živý Obraz**](https://zivyobraz.eu/?page=o-sluzbe) service. On your phone, it shows e-paper status, measured and custom values, batteries, chart history, local alerts, backups, and Home Screen widgets.
 
-## Closed BETA Testing
+## Open Beta Testing
 
-To access the closed BETA test, first send me an email at:
+The app is available in Open Beta on Google Play. You do not need to send an email or wait to be added to a testing group.
 
-coolajz@coolajz.cz
-
-In the message, include the email address you use in Google Play. I will add this address to the closed testing group.
-
-After you have been added to the testing group, you can install the app through Google Play Store by opening this link directly on the Android device:
+You can find it on Google Play under the name **Živý Obraz**. You can also install it by opening this link directly on your Android device:
 
 https://play.google.com/store/apps/details?id=eu.coolajz.zivyobraz
 
-You can also use the web link:
+You can also use the testing web link:
 
 https://play.google.com/apps/testing/eu.coolajz.zivyobraz
 
