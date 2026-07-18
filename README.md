@@ -4,17 +4,15 @@
 
 Android aplikace pro rychlý přehled zařízení ze služby [**Živý Obraz**](https://zivyobraz.eu/?page=o-sluzbe). V telefonu zobrazuje stav e-paperů, naměřené i vlastní hodnoty, baterie, historii grafů, lokální upozornění, zálohy a widgety přímo na domovské obrazovce.
 
-## Open Beta testování
+## Instalace z Google Play
 
-Aplikace je dostupná v otevřeném beta testování na Google Play. Není potřeba posílat e-mail ani čekat na přidání do testovací skupiny.
+Aplikace **Živý Obraz** je veřejně dostupná v Google Play:
 
-V Google Play ji najdete pod názvem **Živý Obraz**. Instalovat ji můžete také přes odkaz otevřený přímo v Android zařízení:
+[Nainstalovat aplikaci z Google Play](https://play.google.com/store/apps/details?id=eu.coolajz.zivyobraz)
 
-https://play.google.com/store/apps/details?id=eu.coolajz.zivyobraz
+Pokud máte zájem podílet se na testování nových verzí před jejich vydáním, můžete se připojit k otevřenému beta testování:
 
-Případně lze použít webový odkaz pro testování:
-
-https://play.google.com/apps/testing/eu.coolajz.zivyobraz
+[Připojit se k OpenBeta testování](https://play.google.com/apps/testing/eu.coolajz.zivyobraz)
 
 ## Hlavní funkce
 
